@@ -89,7 +89,7 @@
     "papaparse": "^5.4.1",
     "prettier": "2.4.1",
     "shell-quote": "^1.8.1",
-    "swagger-ui-dist": "5.0.0-alpha.6",
+    "swagger-ui-dist": "5.11.8",
     "tailwind-merge": "2.2.1",
     "tailwindcss-animate": "^1.0.7",
     "tough-cookie": "^4.1.3",
